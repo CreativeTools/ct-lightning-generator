@@ -3,6 +3,8 @@ Lightning Generator for CINEMA 4D
 
 >A Python generator for creating lightning effects in CINEMA 4D.
 
+#[Download](https://github.com/CreativeTools/ct-lightning-generator/raw/master/ct_lightning_generator.c4d)
+
 ##File contents
 
 The C4D file contains a number of objects:
