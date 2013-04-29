@@ -5,6 +5,8 @@ Lightning Generator for CINEMA 4D
 
 #[Download](https://github.com/CreativeTools/ct-lightning-generator/raw/master/ct_lightning_generator.c4d)
 
+![Lightning Render](http://www.creativetools.se/blog_static/media/6843_veckans-ct-freebie:-blixtar-i-cinema-4d.jpg)
+
 ##File contents
 
 The C4D file contains a number of objects:
@@ -36,3 +38,8 @@ The _CT Lightning Generator_ object has a number of settings in the _User Data_ 
     * Each random seed gives you a new variation of the bolt. Animate this to generate rapidly changing sparks.
 * Max Steps
     * The maximum number of steps the generator should take when generating the bolt. Raise this if the bolt does not reach the target object. Note that the generation time is proportial to the square of the number of steps, so be careful with this setting!
+
+##CG News
+Visit the Creative Tools blog for your daily dose of CG news.
+###[English](http://translate.google.com/translate?js=n&sl=auto&tl=en&u=http://www.creativetools.se/blog/)
+###[Swedish](http://www.creativetools.se/blog/)
